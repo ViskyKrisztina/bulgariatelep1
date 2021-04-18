@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/bulgariatelep1/static/css/main.df26f4e7.chunk.css",
+    "main.js": "/bulgariatelep1/static/js/main.2c9868d9.chunk.js",
+    "main.js.map": "/bulgariatelep1/static/js/main.2c9868d9.chunk.js.map",
+    "runtime-main.js": "/bulgariatelep1/static/js/runtime-main.94f421e4.js",
+    "runtime-main.js.map": "/bulgariatelep1/static/js/runtime-main.94f421e4.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/bulgariatelep1/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.32ce864b.chunk.js": "/bulgariatelep1/static/js/2.32ce864b.chunk.js",
+    "static/js/2.32ce864b.chunk.js.map": "/bulgariatelep1/static/js/2.32ce864b.chunk.js.map",
+    "index.html": "/bulgariatelep1/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/bulgariatelep1/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.df26f4e7.chunk.css.map": "/bulgariatelep1/static/css/main.df26f4e7.chunk.css.map",
+    "static/js/2.32ce864b.chunk.js.LICENSE.txt": "/bulgariatelep1/static/js/2.32ce864b.chunk.js.LICENSE.txt",
+    "static/media/children.067d6ad1.svg": "/bulgariatelep1/static/media/children.067d6ad1.svg",
+    "static/media/cluj1.a2abae8d.jpg": "/bulgariatelep1/static/media/cluj1.a2abae8d.jpg",
+    "static/media/cluj2.4aca3df3.jpg": "/bulgariatelep1/static/media/cluj2.4aca3df3.jpg",
+    "static/media/homepageImage.584f823f.jpg": "/bulgariatelep1/static/media/homepageImage.584f823f.jpg",
+    "static/media/oldwoman.d1ebadc5.png": "/bulgariatelep1/static/media/oldwoman.d1ebadc5.png",
+    "static/media/online.e8bb93e3.jpg": "/bulgariatelep1/static/media/online.e8bb93e3.jpg",
+    "static/media/onsite.0d8eb15a.jpg": "/bulgariatelep1/static/media/onsite.0d8eb15a.jpg",
+    "static/media/terkep.2e75972e.jpg": "/bulgariatelep1/static/media/terkep.2e75972e.jpg",
+    "static/media/test.93d2c31f.png": "/bulgariatelep1/static/media/test.93d2c31f.png",
+    "static/media/therapy.178fb865.jpg": "/bulgariatelep1/static/media/therapy.178fb865.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94f421e4.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.32ce864b.chunk.js",
+    "static/css/main.df26f4e7.chunk.css",
+    "static/js/main.2c9868d9.chunk.js"
+  ]
+}
